@@ -109,3 +109,4 @@ jupyter lab
 ```
 streamlit run streamlit_app.py
 ```
+Для общего пользования сервис доступен по адресу https://usov-car-price.streamlit.app/
